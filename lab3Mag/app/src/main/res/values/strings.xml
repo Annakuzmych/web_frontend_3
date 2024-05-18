@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">About Emotional Intel</string>
+    <string name="second_fragment_label">Quiz</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+The website focuses on emotional intelligence, exploring its impact on daily life and well-being. It offers insights into managing emotions, understanding oneself and others, and improving problem-solving skills. Through articles, quizzes, and interactive tools, the site aims to enhance emotional intelligence and promote mental wellness.
+    </string>
+
+    <string name="second">
+        Let\'s answer!
+    </string>
+    <string name="submit">Submit</string>
+    <string name="for_more_information">For more information</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+</resources>
